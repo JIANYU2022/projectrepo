@@ -1,2 +1,6 @@
 Line 1: Original content
+<<<<<<< HEAD
 Line 2: Conflicting change from main branch
+=======
+Line 2: Change from feature_branch
+>>>>>>> feature_branch
